@@ -1,0 +1,13 @@
+
+.mainFxmlClass {
+    -fx-background-color: black;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: white;
+/*    -fx-opacity: 0.6;*/
+
+}
+
+/*.buttonFront
+{
+    -fx-graphic: url('front1.png');
+}*/
